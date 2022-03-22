@@ -50,7 +50,7 @@ The predicted results is located in output_files.
 
 More details can be found from [1]
 
-## REFERANCE
+## REFERENCE
 [1] Zhang M, Zhao J, Li C, Song J, Song X. Integrating deep learning and feature engineering for accurate identification of multi-species coding short open reading frames.
 
 ## CONTACT
